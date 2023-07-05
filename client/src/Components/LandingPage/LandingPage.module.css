@@ -1,0 +1,8 @@
+.div {
+    background-image:url('../../../Images/fondo0-f1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 20%;
+    height: 100vh;
+    overflow-y: hidden;
+}
